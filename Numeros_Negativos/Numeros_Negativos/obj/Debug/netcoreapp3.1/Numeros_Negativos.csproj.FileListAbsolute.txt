@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\bin\Debug\netcoreapp3.1\Numeros_Negativos.exe
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\bin\Debug\netcoreapp3.1\Numeros_Negativos.deps.json
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\bin\Debug\netcoreapp3.1\Numeros_Negativos.runtimeconfig.json
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\bin\Debug\netcoreapp3.1\Numeros_Negativos.runtimeconfig.dev.json
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\bin\Debug\netcoreapp3.1\Numeros_Negativos.dll
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\bin\Debug\netcoreapp3.1\Numeros_Negativos.pdb
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.AssemblyInfo.cs
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.dll
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.pdb
+C:\Users\erick\source\repos\Numeros_Negativos\Numeros_Negativos\obj\Debug\netcoreapp3.1\Numeros_Negativos.genruntimeconfig.cache
